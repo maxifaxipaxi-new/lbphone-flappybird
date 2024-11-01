@@ -4,7 +4,7 @@ game "gta5"
 title "LB Phone - FlappyBird-App"
 description "Integrate Games like FlappyBird to LB"
 author "MFPSCRIPTS"
-version '1.0'
+version '1.1'
 
 lua54 'yes'
 
